@@ -9,11 +9,11 @@ Formatnya sebagai berikut: '$lang['view_details'] = 'View Details';'
 
 Jangan ubah ke key array ('$lang['...']'), cukup terjemahkan teks yang ada di sebelah kanan tanda '=' tanpa mengubah struktur, tanda kutip, atau titik koma.
 
-### Task:
+Task:
 - Kembalikan hasil dalam satu blok kode PHP.
 - Pertahankan urutan baris dan format asli.
 - Hanya terjemahkan bagian teks Inggris yang berada dalam tanda kutip setelah tanda '='.
 - Jangan menambah baris baru atau menghapus baris.
 
-### Script yang perlu diterjemahkan:
+Script yang perlu diterjemahkan:
 [Masukkan script PHP di sini]
