@@ -1,7 +1,7 @@
 # CodeIgniter 3 Project Planning Prompt
 
 ## Description
-Prompt ini digunakan untuk membantu merencanakan project CodeIgniter 3 secara rapi sebelum mulai coding, khususnya untuk developer pemula yang ingin membangun sistem CRUD berbasis admin panel.
+This prompt is used to help plan a CodeIgniter 3 project neatly before starting to code, especially for novice developers who want to build a CRUD system based on an admin panel.
 
 ## Prompt
 <pre>
