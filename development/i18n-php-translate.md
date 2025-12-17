@@ -4,6 +4,7 @@
 Translate English text inside PHP language array files into Indonesian. Only translate the text value on the right side of the "=" sign without modifying keys, structure, quotes, or semicolons.
 
 ## Prompt
+<pre>
 Saya ingin anda translate script bahasa Inggris ke bahasa Indonesia pada file bahasa PHP.  
 Formatnya sebagai berikut: '$lang['view_details'] = 'View Details';'
 
@@ -17,3 +18,4 @@ Task:
 
 Script yang perlu diterjemahkan:
 [Masukkan script PHP di sini]
+</pre>
